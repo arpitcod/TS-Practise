@@ -22,7 +22,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon index.ts"
+    "start": "node init && nodemon index.ts"
   },
   "keywords": [],
   "author": "",
